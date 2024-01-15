@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T22:05:35.375Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" etag="sNstBd9KiTDnjnO7ReiM" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T22:10:52.060Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" etag="ef3rIa5JGGDeAsPfe11w" version="22.1.18" type="github">
   <diagram name="Página-1" id="Go7qc5jJ_1pGCe3DNJ5q">
-    <mxGraphModel dx="1450" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,26 +19,26 @@
         <mxCell id="IvfJJim26I3WmNER0M7D-5" value="25.17 - Electrónica II - 6" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IvfJJim26I3WmNER0M7D-6" value="24" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="760" y="80" width="40" height="40" as="geometry" />
+        <mxCell id="IvfJJim26I3WmNER0M7D-6" value="27" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="80" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-7" value="25.15 - Electrónica I - 6" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="1080" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-8" value="25.24 - Lab. de Elec III - 4" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="400" y="280" width="200" height="40" as="geometry" />
+          <mxGeometry x="1560" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-9" value="25.23 - Sist. de Control - 6" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="520" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="840" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-10" value="25.20 - Análisis Señales y ... - 6" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="200" width="200" height="40" as="geometry" />
+          <mxGeometry x="1200" y="280" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-11" value="25.22 - Electromagnetismo - 4" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="160" y="280" width="200" height="40" as="geometry" />
+          <mxGeometry x="1320" y="200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-12" value="26" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="760" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="1800" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-13" value="25.21 - Electrónica III - 4" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="200" height="40" as="geometry" />
