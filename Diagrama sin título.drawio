@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T22:13:34.819Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" etag="NNNstd16TEFn4qlVRTVT" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T22:16:06.431Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" etag="Hcqg3oPv1Lsy-QyfIyhh" version="22.1.18" type="github">
   <diagram name="Página-1" id="Go7qc5jJ_1pGCe3DNJ5q">
-    <mxGraphModel dx="1436" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1320" y="360" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-14" value="25.27 - Sist. Embebidos - 6" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="1320" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-15" value="25.26 - Transmisión Info - 6" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1080" y="360" width="200" height="40" as="geometry" />
@@ -58,26 +58,26 @@
         <mxCell id="IvfJJim26I3WmNER0M7D-18" value="25.28 - Electrónica IV - 4" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1560" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IvfJJim26I3WmNER0M7D-20" value="26" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="760" y="400" width="40" height="40" as="geometry" />
+        <mxCell id="IvfJJim26I3WmNER0M7D-20" value="24" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-21" value="94.44 - P. Interdisciplinario - 3" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1440" y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-22" value="25.32 - Proyecto Integrador - 6&#xa;(Anual) " style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="840" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-23" value="61.16 - Intro a las Finanzas - 3" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="520" y="600" width="200" height="40" as="geometry" />
+          <mxGeometry x="1080" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-24" value="25.31 - Proyectos Elec - 4" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;fontColor=#ffffff;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1200" y="440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-25" value="25.30 - Electrónica V - 4" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;fontColor=#ffffff;labelBorderColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="1080" y="680" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-26" value="12.83 - Seguridad O &amp; A - 3" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="280" y="600" width="200" height="40" as="geometry" />
+          <mxGeometry x="1560" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IvfJJim26I3WmNER0M7D-26" target="IvfJJim26I3WmNER0M7D-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,11 +85,11 @@
         <mxCell id="IvfJJim26I3WmNER0M7D-30" value="23" style="rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="760" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IvfJJim26I3WmNER0M7D-31" value="61.31 - Derecho para Ing. - 3" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="280" y="760" width="200" height="40" as="geometry" />
+        <mxCell id="IvfJJim26I3WmNER0M7D-31" value="61.31 - Derecho para Ing. - 3" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=#ffffff;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="600" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-33" value="25.32 - Proyecto Integrador - 6&#xa;(Anual) " style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="680" width="200" height="40" as="geometry" />
+          <mxGeometry x="840" y="680" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-34" value="94.65 - Practica Profesional - 0" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="120" y="840" width="200" height="40" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="IvfJJim26I3WmNER0M7D-35" value="Electivas 10" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="680" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IvfJJim26I3WmNER0M7D-36" value="93.61 - Física IV - 4" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="280" y="680" width="200" height="40" as="geometry" />
+        <mxCell id="IvfJJim26I3WmNER0M7D-36" value="93.61 - Física IV - 4" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="680" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-37" value="Electivas 12" style="rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="440" y="840" width="200" height="40" as="geometry" />
