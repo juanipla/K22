@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T22:16:06.431Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" etag="Hcqg3oPv1Lsy-QyfIyhh" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T22:16:52.558Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36" etag="3YMqtOLTB9ndRjafo-aQ" version="22.1.18" type="github">
   <diagram name="Página-1" id="Go7qc5jJ_1pGCe3DNJ5q">
-    <mxGraphModel dx="956" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
           <mxGeometry x="760" y="560" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-31" value="61.31 - Derecho para Ing. - 3" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=#ffffff;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="600" width="200" height="40" as="geometry" />
+          <mxGeometry x="1080" y="600" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-33" value="25.32 - Proyecto Integrador - 6&#xa;(Anual) " style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="840" y="680" width="200" height="40" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="120" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-35" value="Electivas 10" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="520" y="680" width="200" height="40" as="geometry" />
+          <mxGeometry x="1320" y="600" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IvfJJim26I3WmNER0M7D-36" value="93.61 - Física IV - 4" style="rounded=1;fillColor=#0050ef;strokeColor=#001DBC;shadow=1;fontStyle=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;verticalAlign=middle;fontColor=#ffffff;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="1320" y="680" width="200" height="40" as="geometry" />
